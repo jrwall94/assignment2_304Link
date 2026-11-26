@@ -65,6 +65,7 @@ public class MyStack implements StackADT
 
 
 	/**
+	 * 
 	 * Removes and returns the element at the top of this stack.
 	 *
 	 * @return the text removed from the top
